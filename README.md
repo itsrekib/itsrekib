@@ -17,6 +17,6 @@
 
 📫Email: rekib6296462@gmail.com
 
-🔗Portfolio: rekibtech.com
+🔗Portfolio: https://rekiburuddin.blogspot.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or any inquiries.
